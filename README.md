@@ -1,6 +1,5 @@
 # mental-health-dashboard
 A Power BI dashboard analyzing mental health trends and well-being among students.
-# Mental Health Dashboard
 
 ## Project Overview
 This project analyzes mental health trends and well-being among students using data collected through a survey. The dashboard visualizes insights such as stress levels, mood patterns, and emotional well-being to support data-driven decisions on mental health interventions.
