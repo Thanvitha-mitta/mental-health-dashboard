@@ -29,4 +29,4 @@ This project analyzes mental health trends and well-being among students using d
 3. Explore the visualizations and insights.
 
 ## Project Screenshots
-![Dashboard Overview](Mental Health Dashboard.png)
+[Dashboard Overview](Mental_Health_Dashboard.png)
